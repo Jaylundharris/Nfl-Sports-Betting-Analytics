@@ -1,0 +1,122 @@
+,schedule_date,schedule_season,schedule_week,schedule_playoff,team_home,score_home,score_away,team_away,team_favorite_id,spread_favorite,over_under_line,stadium,stadium_neutral,weather_temperature,weather_wind_mph,weather_humidity,weather_detail
+538,1969-01-12,1968,Superbowl,True,Baltimore Colts,7.0,16.0,New York Jets,IND,-18.0,40,Orange Bowl,True,66.0,12.0,80.0,rain
+727,1970-01-11,1969,Superbowl,True,Kansas City Chiefs,23.0,7.0,Minnesota Vikings,MIN,-12.0,39,Tulane Stadium,True,55.0,14.0,84.0,rain
+2500,1979-01-21,1978,Superbowl,True,Dallas Cowboys,31.0,35.0,Pittsburgh Steelers,PIT,-3.5,37,Orange Bowl,True,71.0,18.0,84.0,rain
+3279,1982-12-12,1982,14,False,New England Patriots,3.0,0.0,Miami Dolphins,MIA,-6.0,37,Foxboro Stadium,False,26.0,16.0,51.0,snow
+3979,1985-12-01,1985,13,False,Green Bay Packers,21.0,0.0,Tampa Bay Buccaneers,GB,-6.5,44.5,Lambeau Field,False,28.0,21.0,96.0,snow
+5761,1993-11-25,1993,13,False,Dallas Cowboys,14.0,16.0,Miami Dolphins,DAL,-10.0,37,Texas Stadium,False,32.0,15.0,63.0,snow
+8268,2003-11-03,2003,9,False,Denver Broncos,26.0,30.0,New England Patriots,DEN,-2.0,36,Sports Authority Field at Mile High,False,35.0,10.0,100.0,rain
+8306,2003-11-23,2003,12,False,Green Bay Packers,20.0,10.0,San Francisco 49ers,GB,-3.5,40,Lambeau Field,False,40.0,15.0,100.0,rain
+9418,2007-12-16,2007,15,False,Cleveland Browns,8.0,0.0,Buffalo Bills,CLE,-5.0,37,FirstEnergy Stadium,False,31.0,19.0,82.0,snow
+9467,2008-01-12,2007,Division,True,Green Bay Packers,42.0,20.0,Seattle Seahawks,GB,-7.5,44,Lambeau Field,False,31.0,4.0,81.0,snow
+9774,2009-09-27,2009,3,False,Baltimore Ravens,34.0,3.0,Cleveland Browns,BAL,-13.5,38.5,M&T Bank Stadium,False,71.0,8.0,87.0,rain
+9780,2009-09-27,2009,3,False,New England Patriots,26.0,10.0,Atlanta Falcons,NE,-4.5,45.5,Gillette Stadium,False,64.0,14.0,84.0,rain
+9781,2009-09-27,2009,3,False,New York Jets,24.0,17.0,Tennessee Titans,NYJ,-1.0,36,Giants Stadium,False,66.0,8.0,85.0,rain | fog
+9783,2009-09-27,2009,3,False,Philadelphia Eagles,34.0,14.0,Kansas City Chiefs,PHI,-7.5,39,Lincoln Financial Field,False,68.0,9.0,88.0,fog
+9797,2009-10-04,2009,4,False,New England Patriots,27.0,21.0,Baltimore Ravens,NE,-2.0,45,Gillette Stadium,False,65.0,5.0,89.0,fog
+9822,2009-10-18,2009,6,False,New England Patriots,59.0,0.0,Tennessee Titans,NE,-9.0,37.5,Gillette Stadium,False,44.0,20.0,80.0,snow | rain | fog
+9845,2009-11-01,2009,8,False,Baltimore Ravens,30.0,7.0,Denver Broncos,BAL,-3.5,42,M&T Bank Stadium,False,54.0,7.0,78.0,rain
+9927,2009-12-06,2009,13,False,Miami Dolphins,22.0,21.0,New England Patriots,NE,-5.0,46.5,Sun Life Stadium,False,70.0,10.0,81.0,rain
+9935,2009-12-13,2009,14,False,Baltimore Ravens,48.0,3.0,Detroit Lions,BAL,-14.0,40.5,M&T Bank Stadium,False,35.0,4.0,71.0,rain
+9944,2009-12-13,2009,14,False,New York Giants,38.0,45.0,Philadelphia Eagles,PHI,-1.0,42.5,Giants Stadium,False,42.0,11.0,54.0,rain | fog
+9945,2009-12-13,2009,14,False,Oakland Raiders,13.0,34.0,Washington Redskins,WAS,-2.5,37.5,Oakland Coliseum,False,52.0,14.0,88.0,rain | fog
+9970,2009-12-27,2009,16,False,Green Bay Packers,48.0,10.0,Seattle Seahawks,GB,-13.5,43.5,Lambeau Field,False,18.0,5.0,90.0,fog
+9982,2010-01-03,2009,17,False,Buffalo Bills,30.0,7.0,Indianapolis Colts,BUF,-8.0,32,Ralph Wilson Stadium,False,14.0,13.0,84.0,snow
+10014,2010-09-12,2010,1,False,New York Giants,31.0,18.0,Carolina Panthers,NYG,-6.0,41,MetLife Stadium,False,65.0,1.0,67.0,rain
+10023,2010-09-13,2010,1,False,New York Jets,9.0,10.0,Baltimore Ravens,NYJ,-1.0,36.5,MetLife Stadium,False,73.0,1.0,100.0,rain
+10041,2010-09-26,2010,3,False,Baltimore Ravens,24.0,17.0,Cleveland Browns,BAL,-12.5,36.5,M&T Bank Stadium,False,77.0,6.0,83.0,rain
+10042,2010-09-26,2010,3,False,Carolina Panthers,7.0,20.0,Cincinnati Bengals,CIN,-3.5,37,Bank of America Stadium,False,67.0,8.0,86.0,rain | fog
+10057,2010-10-03,2010,4,False,Buffalo Bills,14.0,38.0,New York Jets,NYJ,-6.0,37,Ralph Wilson Stadium,False,51.0,1.0,66.0,rain
+10103,2010-10-24,2010,7,False,Green Bay Packers,28.0,24.0,Minnesota Vikings,GB,-2.5,44.5,Lambeau Field,False,59.0,4.0,96.0,fog
+10105,2010-10-24,2010,7,False,Miami Dolphins,22.0,23.0,Pittsburgh Steelers,PIT,-3.0,40.5,Sun Life Stadium,False,80.0,1.0,84.0,rain | fog
+10134,2010-11-07,2010,9,False,Oakland Raiders,23.0,20.0,Kansas City Chiefs,PICK,0.0,41,Oakland Coliseum,False,63.0,9.0,82.0,rain | fog
+10148,2010-11-14,2010,10,False,Pittsburgh Steelers,26.0,39.0,New England Patriots,PIT,-4.5,45,Heinz Field,False,50.0,8.0,86.0,rain
+10202,2010-12-12,2010,14,False,Buffalo Bills,13.0,6.0,Cleveland Browns,PICK,0.0,39,Ralph Wilson Stadium,False,36.0,6.0,95.0,rain | fog
+10204,2010-12-12,2010,14,False,Chicago Bears,7.0,36.0,New England Patriots,NE,-3.0,37,Soldier Field,False,27.0,3.0,81.0,snow
+10207,2010-12-12,2010,14,False,Jacksonville Jaguars,38.0,31.0,Oakland Raiders,JAX,-3.5,41.5,EverBank Field,False,54.0,1.0,86.0,rain
+10210,2010-12-12,2010,14,False,Pittsburgh Steelers,23.0,7.0,Cincinnati Bengals,PIT,-8.0,39.5,Heinz Field,False,41.0,8.0,89.0,rain
+10212,2010-12-12,2010,14,False,San Francisco 49ers,40.0,21.0,Seattle Seahawks,SF,-5.0,43,Candlestick Park,False,55.0,3.0,90.0,fog
+10234,2010-12-26,2010,16,False,Buffalo Bills,3.0,34.0,New England Patriots,NE,-9.0,45.5,Ralph Wilson Stadium,False,22.0,1.0,69.0,snow
+10257,2011-01-02,2010,17,False,New England Patriots,38.0,7.0,Miami Dolphins,NE,-6.0,44,Gillette Stadium,False,47.0,5.0,91.0,fog
+10259,2011-01-02,2010,17,False,New York Jets,38.0,7.0,Buffalo Bills,NYJ,-1.5,38,MetLife Stadium,False,48.0,5.0,78.0,fog
+10260,2011-01-02,2010,17,False,Philadelphia Eagles,13.0,14.0,Dallas Cowboys,PICK,0.0,43.5,Lincoln Financial Field,False,48.0,1.0,66.0,rain
+10263,2011-01-02,2010,17,False,Washington Redskins,14.0,17.0,New York Giants,NYG,-4.0,44.5,FedEx Field,False,44.0,7.0,79.0,rain
+10277,2011-09-11,2011,1,False,Baltimore Ravens,35.0,7.0,Pittsburgh Steelers,BAL,-1.5,37,M&T Bank Stadium,False,75.0,2.0,71.0,rain
+10308,2011-09-25,2011,3,False,Carolina Panthers,16.0,10.0,Jacksonville Jaguars,CAR,-3.5,43.5,Bank of America Stadium,False,75.0,4.0,87.0,rain
+10334,2011-10-02,2011,4,False,Philadelphia Eagles,23.0,24.0,San Francisco 49ers,PHI,-10.0,43.5,Lincoln Financial Field,False,54.0,2.0,78.0,rain | fog
+10401,2011-11-06,2011,9,False,San Diego Chargers,38.0,45.0,Green Bay Packers,GB,-6.0,51,Qualcomm Stadium,False,54.0,1.0,90.0,fog
+10428,2011-11-20,2011,11,False,Miami Dolphins,35.0,8.0,Buffalo Bills,MIA,-3.0,44,Sun Life Stadium,False,80.0,1.0,79.0,rain
+10431,2011-11-20,2011,11,False,San Francisco 49ers,23.0,7.0,Arizona Cardinals,SF,-10.0,40.5,Candlestick Park,False,55.0,1.0,72.0,rain
+10439,2011-11-27,2011,12,False,Cincinnati Bengals,23.0,20.0,Cleveland Browns,CIN,-7.0,38,Paul Brown Stadium,False,60.0,7.0,98.0,rain
+10454,2011-12-04,2011,13,False,Chicago Bears,3.0,10.0,Kansas City Chiefs,CHI,-9.0,35,Soldier Field,False,46.0,1.0,79.0,rain
+10486,2011-12-18,2011,15,False,Buffalo Bills,23.0,30.0,Miami Dolphins,BUF,-1.5,40.5,Ralph Wilson Stadium,False,32.0,1.0,64.0,snow
+10527,2012-01-01,2011,17,False,New York Giants,31.0,14.0,Dallas Cowboys,NYG,-3.0,47.5,MetLife Stadium,False,50.0,7.0,83.0,rain
+10554,2012-09-09,2012,1,False,Tampa Bay Buccaneers,16.0,10.0,Carolina Panthers,CAR,-3.0,45.5,Raymond James Stadium,False,83.0,5.0,79.0,rain
+10557,2012-09-10,2012,1,False,Oakland Raiders,14.0,22.0,San Diego Chargers,LVR,-1.0,47.5,Oakland Coliseum,False,67.0,7.0,59.0,fog
+10582,2012-09-23,2012,3,False,Miami Dolphins,20.0,23.0,New York Jets,NYJ,-3.0,40.5,Sun Life Stadium,False,83.0,6.0,76.0,rain | fog
+10601,2012-09-30,2012,4,False,Philadelphia Eagles,19.0,17.0,New York Giants,PHI,-1.5,46.5,Lincoln Financial Field,False,63.0,8.0,59.0,rain
+10615,2012-10-07,2012,5,False,Pittsburgh Steelers,16.0,14.0,Philadelphia Eagles,PIT,-4.0,44,Heinz Field,False,48.0,7.0,68.0,rain
+10629,2012-10-14,2012,6,False,Seattle Seahawks,24.0,23.0,New England Patriots,NE,-4.0,42.5,CenturyLink Field,False,63.0,9.0,80.0,rain
+10648,2012-10-28,2012,8,False,Cleveland Browns,7.0,6.0,San Diego Chargers,LAC,-3.0,41,FirstEnergy Stadium,False,45.0,18.0,89.0,rain | fog
+10655,2012-10-28,2012,8,False,Philadelphia Eagles,17.0,30.0,Atlanta Falcons,PHI,-3.0,43,Lincoln Financial Field,False,58.0,13.0,75.0,rain
+10656,2012-10-28,2012,8,False,Pittsburgh Steelers,27.0,12.0,Washington Redskins,PIT,-4.5,44,Heinz Field,False,45.0,8.0,88.0,rain | fog
+10677,2012-11-11,2012,10,False,Chicago Bears,6.0,13.0,Houston Texans,CHI,-1.0,40,Soldier Field,False,54.0,8.0,90.0,fog
+10687,2012-11-12,2012,10,False,Pittsburgh Steelers,16.0,13.0,Kansas City Chiefs,PIT,-13.0,40,Heinz Field,False,45.0,11.0,84.0,rain | fog
+10715,2012-11-25,2012,12,False,San Diego Chargers,13.0,16.0,Baltimore Ravens,BAL,-1.0,47,Qualcomm Stadium,False,62.0,4.0,82.0,fog
+10720,2012-12-02,2012,13,False,Buffalo Bills,34.0,18.0,Jacksonville Jaguars,BUF,-6.0,42,Ralph Wilson Stadium,False,52.0,13.0,87.0,rain | fog
+10730,2012-12-02,2012,13,False,San Diego Chargers,13.0,20.0,Cincinnati Bengals,CIN,-2.5,46,Qualcomm Stadium,False,66.0,4.0,65.0,fog
+10736,2012-12-09,2012,14,False,Carolina Panthers,30.0,20.0,Atlanta Falcons,ATL,-3.5,47,Bank of America Stadium,False,70.0,5.0,50.0,fog
+10739,2012-12-09,2012,14,False,Green Bay Packers,27.0,20.0,Detroit Lions,GB,-6.5,49,Lambeau Field,False,33.0,9.0,92.0,snow | fog
+10743,2012-12-09,2012,14,False,New York Giants,52.0,27.0,New Orleans Saints,NYG,-4.5,51.5,MetLife Stadium,False,43.0,3.0,88.0,rain
+10746,2012-12-09,2012,14,False,Seattle Seahawks,58.0,0.0,Arizona Cardinals,SEA,-10.0,36,CenturyLink Field,False,48.0,8.0,82.0,rain | fog
+10753,2012-12-16,2012,15,False,Baltimore Ravens,17.0,34.0,Denver Broncos,DEN,-3.0,48,M&T Bank Stadium,False,64.0,7.0,74.0,rain
+10760,2012-12-16,2012,15,False,New England Patriots,34.0,41.0,San Francisco 49ers,NE,-5.0,47.5,Gillette Stadium,False,37.0,5.0,100.0,fog
+10780,2012-12-23,2012,16,False,Seattle Seahawks,42.0,13.0,San Francisco 49ers,SEA,-2.0,40.5,CenturyLink Field,False,45.0,3.0,76.0,rain
+10791,2012-12-30,2012,17,False,New York Giants,42.0,7.0,Philadelphia Eagles,NYG,-6.5,44.5,MetLife Stadium,False,34.0,21.0,50.0,snow
+10825,2013-09-12,2013,2,False,New England Patriots,13.0,10.0,New York Jets,NE,-11.5,43.5,Gillette Stadium,False,72.0,8.0,89.0,rain | fog
+10830,2013-09-15,2013,2,False,Chicago Bears,31.0,30.0,Minnesota Vikings,CHI,-6.5,42,Soldier Field,False,62.0,6.0,76.0,rain
+10831,2013-09-15,2013,2,False,Green Bay Packers,38.0,20.0,Washington Redskins,GB,-8.0,50,Lambeau Field,False,62.0,4.0,100.0,rain
+10832,2013-09-15,2013,2,False,Houston Texans,30.0,24.0,Tennessee Titans,HOU,-9.0,43,Reliant Stadium,False,91.0,9.0,54.0,retractable (open roof)
+10838,2013-09-15,2013,2,False,Seattle Seahawks,29.0,3.0,San Francisco 49ers,SEA,-2.5,44.5,CenturyLink Field,False,64.0,6.0,81.0,rain
+10863,2013-09-29,2013,4,False,Houston Texans,20.0,23.0,Seattle Seahawks,SEA,-2.0,41,Reliant Stadium,False,82.0,9.0,90.0,retractable (open roof)
+10870,2013-09-29,2013,4,False,Tennessee Titans,38.0,13.0,New York Jets,TEN,-3.5,40.5,Nissan Stadium,False,74.0,4.0,51.0,rain
+10872,2013-10-03,2013,5,False,Cleveland Browns,37.0,24.0,Buffalo Bills,CLE,-4.0,41,FirstEnergy Stadium,False,75.0,8.0,73.0,rain
+10880,2013-10-06,2013,5,False,New York Giants,21.0,36.0,Philadelphia Eagles,NYG,-1.5,54,MetLife Stadium,False,69.0,9.0,100.0,fog
+10884,2013-10-06,2013,5,False,Tennessee Titans,17.0,26.0,Kansas City Chiefs,KC,-3.0,38.5,Nissan Stadium,False,74.0,6.0,83.0,rain
+10887,2013-10-13,2013,6,False,Baltimore Ravens,17.0,19.0,Green Bay Packers,GB,-2.0,48,M&T Bank Stadium,False,68.0,10.0,83.0,rain
+10892,2013-10-13,2013,6,False,Houston Texans,13.0,38.0,St. Louis Rams,HOU,-9.0,42.5,Reliant Stadium,False,76.0,5.0,94.0,retractable (open roof)
+10934,2013-11-03,2013,9,False,Houston Texans,24.0,27.0,Indianapolis Colts,IND,-1.0,44,Reliant Stadium,False,60.0,8.0,78.0,retractable (open roof)
+10950,2013-11-10,2013,10,False,New York Giants,24.0,20.0,Oakland Raiders,NYG,-7.0,41,MetLife Stadium,False,53.0,14.0,71.0,rain
+10961,2013-11-17,2013,11,False,Houston Texans,23.0,28.0,Oakland Raiders,HOU,-10.5,40.5,Reliant Stadium,False,85.0,3.0,75.0,retractable (open roof)
+10965,2013-11-17,2013,11,False,New York Giants,27.0,13.0,Green Bay Packers,NYG,-3.0,40.5,MetLife Stadium,False,61.0,2.0,100.0,fog
+10967,2013-11-17,2013,11,False,Pittsburgh Steelers,37.0,27.0,Detroit Lions,DET,-3.0,45,Heinz Field,False,60.0,12.0,87.0,rain
+10974,2013-11-24,2013,12,False,Cleveland Browns,11.0,27.0,Pittsburgh Steelers,CLE,-2.0,39,FirstEnergy Stadium,False,33.0,31.0,84.0,snow
+10977,2013-11-24,2013,12,False,Houston Texans,6.0,13.0,Jacksonville Jaguars,HOU,-10.0,43.5,Reliant Stadium,False,50.0,9.0,55.0,retractable (open roof)
+10979,2013-11-24,2013,12,False,Miami Dolphins,16.0,20.0,Carolina Panthers,CAR,-4.0,40.5,Sun Life Stadium,False,82.0,17.0,55.0,rain
+10991,2013-12-01,2013,13,False,Houston Texans,31.0,34.0,New England Patriots,NE,-6.5,47.5,Reliant Stadium,False,67.0,7.0,72.0,retractable (open roof)
+10998,2013-12-01,2013,13,False,San Francisco 49ers,23.0,13.0,St. Louis Rams,SF,-7.5,40,Candlestick Park,False,66.0,6.0,72.0,fog
+11003,2013-12-08,2013,14,False,Baltimore Ravens,29.0,26.0,Minnesota Vikings,BAL,-6.0,41.5,M&T Bank Stadium,False,33.0,7.0,67.0,snow | Freezing rain
+11006,2013-12-08,2013,14,False,Green Bay Packers,22.0,21.0,Atlanta Falcons,GB,-3.5,45,Lambeau Field,False,9.0,9.0,80.0,snow
+11010,2013-12-08,2013,14,False,Philadelphia Eagles,34.0,20.0,Detroit Lions,PHI,-2.0,53.5,Lincoln Financial Field,False,27.0,7.0,56.0,snow | fog
+11011,2013-12-08,2013,14,False,Pittsburgh Steelers,28.0,34.0,Miami Dolphins,PIT,-3.0,41,Heinz Field,False,26.0,9.0,73.0,snow | fog
+11015,2013-12-08,2013,14,False,Washington Redskins,10.0,45.0,Kansas City Chiefs,KC,-3.0,44.5,FedEx Field,False,30.0,5.0,79.0,rain
+11020,2013-12-15,2013,15,False,Cleveland Browns,31.0,38.0,Chicago Bears,CLE,-1.0,44,FirstEnergy Stadium,False,25.0,12.0,82.0,snow
+11033,2013-12-22,2013,16,False,Baltimore Ravens,7.0,41.0,New England Patriots,BAL,-1.5,44.5,M&T Bank Stadium,False,65.0,8.0,75.0,rain
+11034,2013-12-22,2013,16,False,Buffalo Bills,19.0,0.0,Miami Dolphins,MIA,-1.5,42.5,Ralph Wilson Stadium,False,41.0,8.0,79.0,rain | fog
+11035,2013-12-22,2013,16,False,Carolina Panthers,17.0,13.0,New Orleans Saints,CAR,-3.0,44.5,Bank of America Stadium,False,72.0,18.0,84.0,rain | fog
+11038,2013-12-22,2013,16,False,Green Bay Packers,31.0,38.0,Pittsburgh Steelers,GB,-2.0,44.5,Lambeau Field,False,23.0,5.0,78.0,snow | fog
+11039,2013-12-22,2013,16,False,Houston Texans,13.0,37.0,Denver Broncos,DEN,-9.5,53.5,Reliant Stadium,False,59.0,3.0,79.0,retractable (open roof)
+11045,2013-12-22,2013,16,False,Seattle Seahawks,10.0,17.0,Arizona Cardinals,SEA,-9.0,43,CenturyLink Field,False,50.0,6.0,94.0,fog
+11057,2013-12-29,2013,17,False,New England Patriots,34.0,20.0,Buffalo Bills,NE,-7.0,46,Gillette Stadium,False,41.0,8.0,100.0,rain | fog
+11059,2013-12-29,2013,17,False,New York Giants,20.0,6.0,Washington Redskins,NYG,-3.5,44.5,MetLife Stadium,False,42.0,5.0,100.0,rain | fog
+11061,2013-12-29,2013,17,False,Pittsburgh Steelers,20.0,7.0,Cleveland Browns,PIT,-9.5,44.5,Heinz Field,False,41.0,7.0,93.0,rain | fog
+13195,2022-01-02,2021,17,False,New England Patriots,50.0,10.0,Jacksonville Jaguars,NE,-17.5,41.5,Gillette Stadium,False,46.0,4.0,100.0,rain
+13207,2022-01-09,2021,18,False,Baltimore Ravens,13.0,16.0,Pittsburgh Steelers,BAL,-3.0,41,M&T Bank Stadium,False,36.0,0.0,100.0,rain
+13511,2023-01-22,2022,Division,True,Buffalo Bills,10.0,27.0,Cincinnati Bengals,BUF,-6.0,48.5,Highmark Stadium,False,32.0,4.0,100.0,snow
+13514,2023-01-29,2022,Conference,True,Philadelphia Eagles,31.0,7.0,San Francisco 49ers,PHI,-2.5,45.5,Lincoln Financial Field,False,52.0,14.0,48.0,rain
+13515,2023-02-12,2022,Superbowl,True,Philadelphia Eagles,35.0,38.0,Kansas City Chiefs,PHI,-1.0,51,State Farm Stadium,True,76.0,8.0,8.0,retractable (open roof)
+13967,2024-11-21,2024,12,False,Cleveland Browns,24.0,19.0,Pittsburgh Steelers,PIT,-3.5,36.5,FirstEnergy Stadium,False,36.0,13.0,88.0,snow
+13986,2024-12-01,2024,13,False,Buffalo Bills,35.0,10.0,San Francisco 49ers,BUF,-6.5,45.5,Highmark Stadium,False,28.0,11.0,79.0,snow
+14081,2025-01-19,2024,Division,True,Buffalo Bills,27.0,25.0,Baltimore Ravens,BAL,-1.5,52,Highmark Stadium,False,19.0,4.0,84.0,snow
+14082,2025-01-19,2024,Division,True,Philadelphia Eagles,28.0,22.0,Los Angeles Rams,PHI,-7.0,43.5,Lincoln Financial Field,False,34.0,8.0,67.0,snow
+14104,2025-09-14,2025,2,False,Baltimore Ravens,41.0,17.0,Cleveland Browns,BAL,-11.5,45,M&T Bank Stadium,False,75.0,4.0,65.0,Sunny
