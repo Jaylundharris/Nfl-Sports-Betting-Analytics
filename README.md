@@ -191,17 +191,18 @@ Visualization	Power BI
 Environment	Jupyter Notebook, VS Code
 Version Control	Git & GitHub
 
+---
 
-🚀 How to Run This Project
+# 🚀 How to Run This Project
+
 1️⃣ Clone the repo
 git clone https://github.com/Jaylundharris/Nfl-Sports-Betting-Analytics.git
 
 2️⃣ Install dependencies
+
 pip install pandas numpy jupyterlab
 
 3️⃣ Run notebooks
-jupyter notebook
-
 
 Run 01_exploratory_analysis.ipynb
 
@@ -213,7 +214,7 @@ File location:
 
 powerbi/nfl_sports_betting_powerbi.pbix
 
-📌 Future Enhancements
+# 📌 Future Enhancements
 
 Add machine learning model (spread predictions)
 
@@ -225,7 +226,7 @@ Add player-level prop analysis
 
 Deploy a web dashboard version
 
-📞 Contact
+# 📞 Contact
 
 Jaylund Harris
 
