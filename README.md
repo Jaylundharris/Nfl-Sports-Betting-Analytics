@@ -220,5 +220,6 @@ Deploy a web dashboard version
 
 Jaylund Harris
 Data Analyst | Python | SQL | Power BI | Sports Analytics
+
 Linkedin: https://www.linkedin.com/in/jaylund-harris-571936384/
 GitHub: https://github.com/Jaylundharris
