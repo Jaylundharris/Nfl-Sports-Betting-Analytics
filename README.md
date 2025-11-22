@@ -179,7 +179,7 @@ Certain stadiums show over-friendly scoring
 
 Travel distance affects away win rates
 
-🛠️ Tools & Technologies Used
+### 🛠️ Tools & Technologies Used
 
 Category	Tools
 Languages	Python, SQL
