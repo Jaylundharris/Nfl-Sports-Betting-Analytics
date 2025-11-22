@@ -222,6 +222,8 @@ Jaylund Harris
 
 Data Analyst | Python | SQL | Power BI | Sports Analytics
 
+Email: jaylundharris@gmail.com
+
 Linkedin: https://www.linkedin.com/in/jaylund-harris-571936384/
 
 GitHub: https://github.com/Jaylundharris
