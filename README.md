@@ -122,7 +122,10 @@ FROM nfl_sports_betting_final
 GROUP BY team_home
 ORDER BY avg_margin DESC;
 ```
-### 📊 3. Power BI Dashboards (4 Pages)
+
+---
+
+# 📊 3. Power BI Dashboards (4 Pages)
 
 #### 📌 Page 1 — League Overview  
 ![League Overview](powerbi/figures/page1_overview.png)
@@ -139,6 +142,7 @@ ORDER BY avg_margin DESC;
 Explores stadium effects, scoring geography, and deeper trend modeling.
 
 🧠 Key Insights From the Analysis
+
 ⭐ 1. Underdogs outperform favorites long-term
 
 Underdogs cover the spread ~57% of the time
@@ -176,6 +180,7 @@ Certain stadiums show over-friendly scoring
 Travel distance affects away win rates
 
 🛠️ Tools & Technologies Used
+
 Category	Tools
 Languages	Python, SQL
 Libraries	Pandas, NumPy, SQLite3
@@ -183,6 +188,8 @@ Database	SQLite
 Visualization	Power BI
 Environment	Jupyter Notebook, VS Code
 Version Control	Git & GitHub
+
+
 🚀 How to Run This Project
 1️⃣ Clone the repo
 git clone https://github.com/Jaylundharris/Nfl-Sports-Betting-Analytics.git
