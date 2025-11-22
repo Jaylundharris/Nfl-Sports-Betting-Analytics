@@ -183,13 +183,14 @@ Travel distance affects away win rates
 
 # 🛠️ Tools & Technologies Used
 
-Category	Tools
-Languages	Python, SQL
-Libraries	Pandas, NumPy, SQLite3
-Database	SQLite
-Visualization	Power BI
-Environment	Jupyter Notebook, VS Code
-Version Control	Git & GitHub
+|Category |	Tools |
+|---------|-------|
+|Languages	|Python, SQL|
+|Libraries	|Pandas, NumPy, SQLite3|
+|Database	|SQLite|
+|Visualization	|Power BI|
+|Environment	|Jupyter Notebook, VS Code|
+|Version Control|	Git & GitHub|
 
 ---
 
