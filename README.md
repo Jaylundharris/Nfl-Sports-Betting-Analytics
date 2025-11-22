@@ -115,15 +115,19 @@ Stadium-level win rates
 
 Team historical summaries
 
-### 📈 3. Power BI Dashboards (4 Pages)
-📌 Page 1 — League Overview
+### 📊 3. Power BI Dashboards (4 Pages)
 
-📌 Page 2 — Team Performance
+#### 📌 Page 1 — League Overview  
+![League Overview](powerbi/figures/page1_overview.png)
 
-📌 Page 3 — Betting Insights
+#### 📌 Page 2 — Team Performance  
+![Team Performance](powerbi/figures/page2_team_performance.png)
 
-📌 Page 4 — Advanced Analysis
+#### 📌 Page 3 — Betting Insights  
+![Betting Insights](powerbi/figures/page3_betting_insights.png)
 
+#### 📌 Page 4 — Advanced Analysis  
+![Advanced Analysis](powerbi/figures/page4_advanced_analysis.png)
 🧠 Key Insights
 🔹 Home Teams Win 57% of the time
 🔹 Favorites cover only 42% of spreads
