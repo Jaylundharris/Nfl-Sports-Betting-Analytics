@@ -98,10 +98,10 @@ Performed inside **`02_sql_analysis.ipynb`**.
 
 #### 📌 Total Games Per Season
 ```sql
-SELECT schedule_season, COUNT(*) AS total_games
+SELECT  
+    COUNT(*) AS total_games
 FROM nfl_sports_betting_final
-GROUP BY schedule_season
-ORDER BY schedule_season;
+ORDER BY total_games;
 ```
 ### 📌 Favorite vs Underdog Cover Rates
 ```
@@ -141,7 +141,7 @@ ORDER BY avg_margin DESC;
 
 Explores stadium effects, scoring geography, and deeper trend modeling.
 
-🧠 Key Insights From the Analysis
+### 🧠 Key Insights From the Analysis
 
 ⭐ 1. Underdogs outperform favorites long-term
 
@@ -197,6 +197,7 @@ Travel distance affects away win rates
 # 🚀 How to Run This Project
 
 1️⃣ Clone the repo
+
 git clone https://github.com/Jaylundharris/Nfl-Sports-Betting-Analytics.git
 
 2️⃣ Install dependencies
