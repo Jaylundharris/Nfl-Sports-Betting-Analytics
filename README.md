@@ -98,25 +98,25 @@ Performed inside **`02_sql_analysis.ipynb`**.
 
 #### 📌 Total Games Per Season
 ```sql
-SELECT  
+SELECT
     COUNT(*) AS total_games
 FROM nfl_sports_betting_final
 ORDER BY total_games;
 ```
 ### 📌 Favorite vs Underdog Cover Rates
-```
-SELECT 
+```sql
+SELECT
     AVG(favorite_covered) AS favorite_cover_rate,
     AVG(1 - favorite_covered) AS underdog_cover_rate
 FROM nfl_sports_betting_final;
 ```
 ### 📌 Over Hit Rate
-```
+```sql
 SELECT AVG(over_hit) AS over_hit_rate
 FROM nfl_sports_betting_final;
 ```
 ### 📌 Team Power Ranking (Margin of Victory)
-```
+```sql
 SELECT team_home, AVG(margin_of_victory) AS avg_margin
 FROM nfl_sports_betting_final
 GROUP BY team_home
