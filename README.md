@@ -32,7 +32,7 @@ The result is an end-to-end analytics pipeline showing strong competency in:
 ---
 
 # 📁 Project Structure
-
+```plaintext
 NFL-Sports-Betting-Analytics/
 │
 ├── data/
@@ -59,7 +59,7 @@ NFL-Sports-Betting-Analytics/
 │
 ├── LICENSE
 └── README.md
-
+```
 ---
 
 # 🧹 1. Data Cleaning & Feature Engineering (Python)
